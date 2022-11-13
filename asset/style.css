@@ -1,0 +1,74 @@
+@font-face {
+    font-family: primaryFont;
+    src: url("BalsamiqSans.ttf") format("truetype");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 50px;
+    font-family: primaryFont;
+}
+
+
+body {
+    margin: 20px;
+    background-image: url("background.jpg");
+}
+
+.calculator {
+    margin: auto;
+    width: 500px;
+    background-color: rgb(221, 201, 231);
+    border-radius: 40px;
+    padding: 20px;
+    color:  #ff02c8;
+    border: 4px solid #ff02c8;
+}
+
+.row {
+    margin: 5px;
+    display: inline-block;
+}
+
+button {
+    height: 100px;
+    width: 100px;
+    background-color: #4c1c79;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    border-radius: 40px;
+    border: 4px solid #030f03;
+    border-left: 0px;
+    border-top: 0px;
+}
+
+button:hover {
+    background-color: #4c1c79;
+    border: 4px solid #4c1c79;
+    border-left: 0px;
+    border-top: 0px;
+}
+
+.output {
+    margin-top: 10px;
+}
+
+.box {
+    width: 70%;
+    height: 80px;
+    margin-bottom: 10px;
+    padding: 0px;
+    float: right;
+    background-color: #3c2f47;
+    border-radius: 20px;
+    border: 10px solid #1a0c27;
+}
+
+#output {
+    color: white;
+    text-align: right;
+    margin-top: 15px;
+    margin-right: 10px;
+}
