@@ -4,9 +4,9 @@ A calculator for New JS Coders. Made with HTML, CSS & Javascript.
 
 # link for live view
 
-### [Click_Me](https://juhuwu.github.io/pussyHunterCalculator/)
+### [Click_Me](https://juhair-cupcake.github.io/js-calculator/)
 
-![ScreenShort](https://github.com/juhuwu/pussyHunterCalculator/blob/master/asset/Capture.png)
+![ScreenShort](https://github.com/juhair-cupcake/js-calculator/blob/master/asset/Capture.png)
 
 # Know the code
 
